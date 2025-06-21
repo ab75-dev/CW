@@ -1,0 +1,12 @@
+yfinance
+requests
+pandas
+numpy
+matplotlib
+hvplot
+holoviews
+tensorflow
+statsmodels
+scikit-learn
+scipy
+ipython
